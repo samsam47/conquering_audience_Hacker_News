@@ -1,4 +1,4 @@
-This project aims to determine what are the basics key to success when you post on a social network tech-oriented.
+This project aims to determine what are the basic key to success when you post on a social network tech-oriented.
 
 What is the best to generate answers : show_posts or ask_posts ?
 What time slot should you prefer to post ?
